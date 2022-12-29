@@ -1,10 +1,13 @@
-[
-    {
-        "name": "Class 1",
-        "type": "cat"
-    },
-    {
-        "name": "Class 2",
-        "type": "cat"
-    }
-]
+{
+    "name": "Home",
+    "items": [
+        {
+            "name": "Class 1",
+            "type": "cat"
+        },
+        {
+            "name": "Class 2",
+            "type": "cat"
+        }
+    ]
+}
