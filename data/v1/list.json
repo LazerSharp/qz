@@ -3,11 +3,13 @@
     "items": [
         {
             "name": "Class* 1",
-            "type": "cat"
+            "type": "cat",
+            "href": "class1"
         },
         {
             "name": "Class 2",
-            "type": "cat"
+            "type": "cat",
+            "href": "class2"
         }
     ]
 }

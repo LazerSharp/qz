@@ -1,0 +1,15 @@
+{
+    "name": "Class 1",
+    "items": [
+        {
+            "name": "Maths",
+            "type": "cat",
+            "href": "class1-maths"
+        },
+        {
+            "name": "English",
+            "type": "cat",
+            "href": "class1-english"
+        }
+    ]
+}
