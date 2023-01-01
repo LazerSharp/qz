@@ -3,12 +3,12 @@
     "items": [
         {
             "name": "Maths",
-            "type": "cat",
+            "type": "list",
             "href": "class2-maths"
         },
         {
             "name": "English",
-            "type": "cat",
+            "type": "list",
             "href": "class2-english"
         }
     ]
