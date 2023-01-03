@@ -4,12 +4,21 @@
         {
             "name": "Maths",
             "type": "qz",
-            "href": "class1-math"
+            "href": "class1-math",
+            "qzType": "free"
         },
         {
             "name": "English",
             "type": "qz",
-            "href": "class1-english"
+            "href": "class1-english",
+            "qzType": "auth"
+        },
+        ,
+        {
+            "name": "G.K.",
+            "type": "qz",
+            "href": "class1-gk",
+            "qzType": "paid"
         }
     ]
 }
